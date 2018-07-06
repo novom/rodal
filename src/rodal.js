@@ -60,7 +60,7 @@ class Rodal extends React.Component {
         visible          : false,
         showMask         : true,
         closeOnEsc       : false,
-        closeMaskOnClick : true,
+        closeMaskOnClick : false,
         showCloseButton  : true,
         animation        : 'zoom',
         enterAnimation   : '',

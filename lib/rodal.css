@@ -10,6 +10,11 @@
     overflow-y: scroll;
 }
 
+.rodal-dialog {
+    position: relative;
+    z-index: 101;
+}
+
 .rodal-dialog:focus {
     outline: none;
 }
